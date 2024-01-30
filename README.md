@@ -6,4 +6,4 @@
 
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitpoonia404&show_icons=true&count_private=true)
 
-<img  align="center" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshkumhar&theme=radical">
+<img  align="center" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=amitpoonia404&theme=radical">
