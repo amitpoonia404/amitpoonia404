@@ -9,7 +9,7 @@
                 margin: 0;
                 overflow: hidden;
                 white-space: nowrap;
-                animation: typing 2s steps(15) infinite;
+                animation: typing 2s steps(15) infinite, delayRestart 2.5s linear infinite;
             }
 
             @keyframes typing {
@@ -33,7 +33,6 @@
             h1::after {
                 content: '|';
                 animation: blink 1s infinite;
-                animation-delay: 5s;
             }
             </style>
             <h1>Are you a 0 or a 1 ?</h1>
