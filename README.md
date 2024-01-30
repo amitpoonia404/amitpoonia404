@@ -1,4 +1,4 @@
-<h2> Hi, I'm [Amit](https://linkedin.com/in/amitpoonia404/) 👋
+### Hi there, I'm [Amit](https://linkedin.com/in/amitpoonia404/) 👋
 
 *I am a DevSecOps Engineer*
 
