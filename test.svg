@@ -7,6 +7,18 @@
                 font-family: 'Courier New', monospace;
                 letter-spacing: 3px;
                 margin: 0;
+                overflow: hidden;
+                white-space: nowrap;
+                animation: typing 5s steps(15) infinite;
+            }
+
+            @keyframes typing {
+                from {
+                    width: 0;
+                }
+                to {
+                    width: 100%;
+                }
             }
 
             @keyframes blink {
@@ -23,7 +35,7 @@
                 animation: blink 1s infinite;
             }
             </style>
-            <h1>Are you a 1 or a 0 ?</h1>
+            <h1>Are you a 0 or a 1 ?</h1>
         </div>
     </foreignObject>
 </svg>
