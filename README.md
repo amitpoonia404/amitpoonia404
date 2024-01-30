@@ -1,5 +1,5 @@
-### Hi there, I'm [Amit](https://linkedin.com/in/amitpoonia404/) 👋
+### Hi, [Amit](https://linkedin.com/in/amitpoonia404/) here 👋
 
-*I am a DevSecOps Engineer*
+*DevSecOps | InfoSec | Cloud | Linux Enthusiast*
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/amitpoonia404?style=social)](https://twitter.com/amitpoonia404)
