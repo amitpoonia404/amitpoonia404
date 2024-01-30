@@ -23,7 +23,7 @@
                 animation: blink 1s infinite;
             }
             </style>
-            <h1>Are you a 1 or a 0</h1>
+            <h1>Are you a 1 or a 0 ?</h1>
         </div>
     </foreignObject>
 </svg>
