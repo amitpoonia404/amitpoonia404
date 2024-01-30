@@ -2,7 +2,7 @@
 
 *I am a DevSecOps Engineer*
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/amitpoonia404style=social)](https://twitter.com/amitpoonia404)
+[![Twitter Follow](https://img.shields.io/twitter/follow/amitpoonia404&style=social)](https://twitter.com/amitpoonia404)
 
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitpoonia404&show_icons=true&count_private=true)
 
