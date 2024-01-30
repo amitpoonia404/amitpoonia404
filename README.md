@@ -4,18 +4,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/amitpoonia404?style=social)](https://twitter.com/amitpoonia404)
 
-h1 {
-  color: red;
-  animation: myanimation 2s infinite;
-}
-
-@keyframes myanimation {
-  from {
-    color: red;
-  }
-  to {
-    color: yellow;
-  }
-}
-
-<h1>Hello world!</h1>
+<div align="center">
+    <img src="test.svg" width="400" height="400" alt="test-svg">
+</div>
