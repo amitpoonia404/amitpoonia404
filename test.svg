@@ -33,7 +33,7 @@
             h1::after {
                 content: '|';
                 animation: blink 1s infinite;
-                animation-delay: 0.5s;
+                animation-delay: 5s;
             }
             </style>
             <h1>Are you a 0 or a 1 ?</h1>
